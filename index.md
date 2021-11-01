@@ -1,6 +1,6 @@
 # Chrome tips
 
-![Banner](./images/banner.png)
+![Banner](./banner.svg)
 
 <!-- concat-md::toc -->
 

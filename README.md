@@ -8,7 +8,7 @@
 
 # Chrome tips
 
-![Banner](./images/banner.png)
+![Banner](./banner.svg)
 
 <!-- table-of-contents - start -->
 * [Addons](#addons)
